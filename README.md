@@ -53,7 +53,7 @@ Artisan Link isn’t just a marketplace — it’s a **movement to preserve cult
 
 ## 📬 Get Involved
 
-Have feedback, ideas, or want to contribute? Feel free to open an issue or connect with us!
+Have feedback, ideas, or want to contribute? Feel free to open an issue or connect with us!!!
 
 ---
 
