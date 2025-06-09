@@ -58,3 +58,12 @@ Have feedback, ideas, or want to contribute? Feel free to open an issue or conne
 ---
 
 > *Crafted with heart by the Artisan Link Team. Let's create something meaningful together.* 🌟
+---
+
+## 📢 License
+
+This project is part of an academic coursework and is provided for educational reference only.
+
+---
+
+© 2024 | Created by Mrinal Mishra
